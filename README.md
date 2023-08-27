@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Maheedhar15
 - 👀 I’m interested in Python and development
-- 🌱 I’m currently learning B.Tech and B.Sc Data Science
+- 🌱 I’m currently pursuing B.E ECE and B.S in Data Science and Applications
+- I am a ML enthusiast and I participate regularly on kaggle competitions
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
+- mail: maheedhareducation@gmail.com
 
 <!---
 Maheedhar15/Maheedhar15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
